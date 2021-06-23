@@ -13,6 +13,7 @@ import { HomeComponent } from '../home/home.component';
     MyApp,
     AboutPage,
     ContactPage,
+    HomeComponent,
     TabsPage
   ],
   imports: [
